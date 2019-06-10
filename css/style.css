@@ -1,0 +1,57 @@
+#about .ag {
+  color: #ddd;
+}
+a:hover {
+  color: #fff;
+}
+#header li {
+  border: none;
+}
+
+#Sale {
+  height: 500px;
+}
+
+#WomenChildMen {
+  padding-top: 100px;
+}
+.kicik{
+  transition: all 3s;
+}
+.kicik:hover{
+  transform: scale(1.1);
+}
+.boyuk{
+  transition: all 3s;
+}
+.boyuk:hover{
+  transform: scale(0.9);
+}
+#Modeller {
+  padding-top: 100px;
+}
+
+#Gloves {
+  background: #eef1f8;
+  margin-top: 100px;
+}
+#Gloves p {
+  font-size: 75px;
+}
+#Gloves h1 {
+  color: #3bb18f;
+}
+
+#SummerCollection {
+  
+}
+
+
+#NewArrivals {
+  padding-top: 100px;
+}
+#Footer a, h3{
+    color:#ddd;
+    text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,43 @@
+#about{
+    .ag{
+        color: #ddd;
+    }
+}
+    
+#header{
+    li{
+        border: none;
+    }
+}
+#Sale{
+    
+    height: 500px;
+}
+#WomenChildMen{
+    padding-top: 100px;
+}
+#Modeller{
+    padding-top: 100px;
+}
+#Gloves{
+    background: #eef1f8;
+    margin-top: 100px;
+    p{
+        font-size: 75px;
+    }
+    h1{
+        color: #3bb18f;
+    }
+}
+#SummerCollection{
+    height: 700px;
+    .backfon{
+        background: url(/images/back.jpg);
+        background-position: top;
+        background-size: cover;
+        background-repeat: no-repeat
+    }
+  }
+#NewArrivals{
+    padding-top: 100px;
+}
